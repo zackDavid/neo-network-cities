@@ -10,5 +10,5 @@ Random subway network map generator with python graphics library
 ### Neo-Network-City-9244
 ![Neo-network-city-9244](https://github.com/zackDavid/neo-network-cities/blob/main/network-images/network-city-9244.png)
 
-### Neo-Network-City-9244
+### Neo-Network-City-4881
 ![Neo-network-city-4881](https://github.com/zackDavid/neo-network-cities/blob/main/network-images/network-city-4881.png)
